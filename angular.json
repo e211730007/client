@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng10-app"
+    }
+  },
+  "defaultProject": "ng10-app",
+  "cli": {
+    "analytics": "6dbaba59-5eea-414b-a318-690c12b84f92"
+  }
 }

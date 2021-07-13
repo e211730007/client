@@ -10,6 +10,7 @@ import { ReportingComponent } from './reporting/reporting.component';
 import { ArticlesComponent } from './articles/articles.component';
 import { ManagementComponent } from './management/management.component';
 import { ContactComponent } from './contact/contact.component';
+import { ApplicationForRegistrationComponent } from './application-for-registration/application-for-registration.component';
 
 @NgModule({
   declarations: [
@@ -20,8 +21,8 @@ import { ContactComponent } from './contact/contact.component';
     ReportingComponent,
     ArticlesComponent,
     ManagementComponent,
-    ContactComponent
-  ],
+    ContactComponent,
+    ApplicationForRegistrationComponent  ],
   imports: [
     BrowserModule,
     AppRoutingModule
