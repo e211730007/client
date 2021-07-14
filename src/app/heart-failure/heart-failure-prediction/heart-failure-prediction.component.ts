@@ -7,6 +7,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HeartFailurePredictionComponent implements OnInit {
 
+
+riskTesting(){
+    alert("בבדיקה...")
+  }
+
+
   constructor() { }
 
   ngOnInit(): void {
